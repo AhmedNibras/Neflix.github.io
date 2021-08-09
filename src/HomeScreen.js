@@ -1,4 +1,5 @@
 import React from 'react'
+import Banner from './Banner';
 import './HomeScreen.css';
 import Nav from './Nav';
 
@@ -7,49 +8,8 @@ function HomeScreen() {
         <div className="homeScreen">
             
             <Nav />
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-            <h1>Hi </h1>
-
-            {/* Bannner */}
+            
+            <Banner />
 
 
             {/* Row */}
