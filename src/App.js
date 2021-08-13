@@ -12,6 +12,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { login, logout, selectUser } from './features/userSlice';
 import Profile from './screens/Profile';
 
+
 function App() {
   const user =useSelector(selectUser);
   const dispatch = useDispatch();
